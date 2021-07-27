@@ -35,17 +35,6 @@
           success: function (me) {
             if (me.res == "success") {
               console.log(me.res);
-              if(data.category == 'Social Engineering'){
-              $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/join-social"><button  class='pay'>PAY NOW</button></a>`)
-            }else if(data.category == 'Web Penetration Testing'){
-              $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/join-web"><button  class='pay'>PAY NOW</button></a>`)
-            }else if (data.category == 'Networking Analysis') {
-              $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/join-net"><button  class='pay'>PAY NOW</button></a>`)
-            }else if(data.category == 'Mobile Penetration Testing'){
-              $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/join-mobile"><button  class='pay'>PAY NOW</button></a>`)
-            }else{
-              alert('hello')
-            }
               $btn.prop('disabled', true).text('Sent!').css({
                 'background':'green'
               })

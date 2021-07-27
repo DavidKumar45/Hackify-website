@@ -26,8 +26,9 @@
     <div class="reg-cover1">
         <div>
             <img src="./assets/images/tick.png" alt="" width="110px">
-            <h2>THANK YOU FOR JOINING HACKIFY.</h2>
-            <h3>Please proceed to payment.</h3>
+            <h2>APPLICATION SENT SUCCESSFULLY</h2>
+            <h3>Thank you for choosing hackify.io</h3>
+            <a href="./"><button class="pay">Homepage</button></a>
         </div>
     </div>
     <div class="main-cover">

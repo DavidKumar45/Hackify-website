@@ -18,7 +18,7 @@
             
                 
                 
-            $to = 'vincentovie39@gmail.com';
+            $to = 'hello@hackify.io';
             $subject = 'Training for organisation';
             $message = "<h2 style='font-size: 18px;'>Number of participants in the organisation</h2><br>
                         <p style='font-size: 18px;'>".$part."</p><br>
@@ -48,7 +48,7 @@
             $phone = $_POST['phone'];
             $pack = $_POST['pack'];
 
-            $to = 'vincentovie39@gmail.com';
+            $to = 'hello@hackify.io';
             $subject = 'Training for developer';
             $message = "
                         <h2 style='font-size: 18px;'>Training package for individual</h2><br>
