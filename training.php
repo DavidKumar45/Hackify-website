@@ -21,19 +21,33 @@
     <!-- MAIL TRAIN ORG SENT -->
     <div class="reg-cover1">
         <div>
+            <p class="close">x</p>
             <img src="./assets/images/tick.png" alt="" width="110px">
             <h2>MAIL SENT SUCCESSFULLY</h2>
-            <h3>Please proceed to payment.</h3>
+            <h3>Thank you for choosing Hackify.</h3>
+            <a href="./"><button class="pay">Homepage</button></a>
         </div>
     </div>
     <!-- MAIL TRAIN DEV SENT -->
     <div class="reg-cover2">
         <div>
+            <p class="close">x</p>
             <img src="./assets/images/tick.png" alt="" width="110px">
             <h2>MAIL SENT SUCCESSFULLY</h2>
             <h3>Please proceed to payment.</h3>
         </div>
     </div>
+    <!-- BEFORE  REG -->
+    <div class="reg-cover22">
+        <div>
+            <p class="close">x</p>
+            <img src="./assets/images/tick.png" alt="" width="110px">
+            <h2>MAIL SENT SUCCESSFULLY</h2>
+            <h3>Main registartion starts on the 8th of August 2021</h3>
+            <a href="./"><button class="pay">Homepage</button></a>
+        </div>
+    </div>
+    
     <div class="training-org-cont">
         <div class="org-space">
             <div class="org-space1">
@@ -42,7 +56,7 @@
                 <a href="#contact-sec"><button class="org">Apply now</button></a>
             </div>
             <div class="org-space2">
-                <img src="./assets/images/pexels-christina-morillo-1181395.png" alt="" width="100%" height="100%" style="object-fit: cover; border-radius: 30px;">
+                <img src="./assets/images/DSC_1689.jpg" alt="" width="100%" height="100%" style="object-fit: cover; border-radius: 30px;">
             </div>
         </div>
     </div>
@@ -50,12 +64,12 @@
         <div class="training-cover">
             <div class="org-space3">
                 <div class="ind-pics">
-                    <img src="./assets/images/pexels-olia-danilevich-4974915 (1).png" alt="" width="100%" height="100%" style="object-fit: cover;">
+                    <img src="./assets/images/DSC_1682.jpg" alt="" width="100%" height="100%" style="object-fit: cover;">
                 </div>
                 <div class="ind-pics2">
                     <div>
                         <h2>TRAINING FOR INDIVIDUAL</h2>
-                        <P>Our well-tailored cybersecurity trainings are all you need to start-off and become a high-earning cyber security expert. Our trainees enjoy practical-based trainings, one-on-one mentorship sessions and business development trainings to help succeed in them succeed. <a style="color: #d60000;" href="./assets/documentations/training-review.pdf" download="training-review.pdf">View training schemes</a></P>
+                        <P>Our well-tailored cybersecurity trainings are all you need to start-off and become a high-earning cyber security expert. Our trainees enjoy practical-based trainings, one-on-one mentorship sessions and business development trainings to help them succeed. <a style="color: #d60000;" href="./assets/documentations/training-review.pdf" download="training-review.pdf">Download training scheme</a></P>
                         <a href="#contact-sec"><button class="dev">Apply now</button></a>
                     </div>
                 </div>
@@ -74,13 +88,19 @@
                 <img src="./assets/images/calendar-interface-symbol-tool.png" alt="" height="70px" width="auto">
             </div>
             <h2>CALENDAR</h2>
+            <h3 style="color:#d60000;font-family:'noto';text-align:center;padding-bottom:30px;">TRAINING BATCH 23</h3>
+            <p style="color: #212121;text-align:center;font-size:20px;font-family:'noto';color: #d60000;">Registration starts: <span style="color: #212529;">8th August 2021</span></p>
+            <p style="color: #212121;text-align:center;font-size:20px;font-family:'noto';color: #d60000;">Registration ends for batch 23: <span style="color: #212529;">16th October 2021</span></p>
+            <p style="color: #212121;text-align:center;font-size:20px;font-family:'noto';color: #d60000;">Training starts: <span style="color: #212529;">18th October 2021</span></p>
         </div>
         <div class="individual-det-div">
-                <div style="display:flex; justify-content:center;">
+            <div style="display:flex; justify-content:center;">
                 <img src="./assets/images/timer.png" alt="" height="70px" width="auto">
             </div>
             <h2>COUNTDOWN</h2>
-            <p class="warning time">hello</p>
+            <div class="count-hold">
+                <p class="warning time"></p>
+            </div>
         </div>
     </div>
     </div>
