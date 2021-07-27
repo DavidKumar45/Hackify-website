@@ -19,8 +19,8 @@
             <a href="./assets/documentations/Terms and Conditions for Hackify.pdf" target="__blank">Terms and Condition</a><br>
             <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">Privacy Policy</a><br> -->
             <div style=" padding-top: 7px;" class="socials-cont">
-                <a href="https://web.facebook.com/Hackifyio-102112422166581"><img src="./assets/images/facebook.png" alt="" style="padding-right: 5px;"></a>
-                <a href="https://www.instagram.com/Hackify.IO/"><img src="./assets/images/instagram.png" alt=""></a>
+                <a target="__blank" href="https://web.facebook.com/Hackifyio-102112422166581"><img src="./assets/images/facebook.png" alt="" style="padding-right: 5px;"></a>
+                <a target="__blank" href="https://www.instagram.com/Hackify.IO/"><img src="./assets/images/instagram.png" alt=""></a>
             </div>
         </div>
     </div>
