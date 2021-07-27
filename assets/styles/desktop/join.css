@@ -261,34 +261,23 @@ li{
     font-family: 'noto';
 }
 
-.testimonials-cont{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    /* height: 80vh; */
-    padding: 100px 85px;
-    background-color: #f0f0f0;
+.owl-carousel{
+    width: 90%;
+    margin-left: 5%;
+    height: auto;
+    margin-top: 30px;
+    padding: 50px 50px;
+    background-color: #f6f6f6;
 }
 
 .testimonial{
-    display: flex;
-    flex-flow: row nowrap;
     width: auto;
     height: auto;
     background-color: #fff;
 }
 
-.test-img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 25%;
-    height: auto;
-}
-
 .test-txt{
-    width: 75%;
+    width: 100%;
     padding: 30px 30px 30px 30px;
 }
 
@@ -369,35 +358,6 @@ li{
     border-radius: 100px;
     font-size: 18px;
     color: #fff;
-}
-
-.owl-carousel{
-    width: 90%;
-    margin-left: 5%;
-    height: 270px;
-    margin-top: 30px;
-    /* background-color: a  qua; */
-}
-
-.item{
-    width: 100%;
-    height: 200px;
-    /* background-color: red; */
-    overflow: hidden;
-}
-
-.item p{
-    opacity: 0;
-    transition: .5s ease-in;
-}
-
-.item:hover.item img{
-    transform: scale(1.1);
-    transition: transform 1s cubic-bezier(0.25,0.45,0.45,0.95);
-}
-
-.item:hover.item p{
-    opacity: 1;
 }
 
 .contact-sec{

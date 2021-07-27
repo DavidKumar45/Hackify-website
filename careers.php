@@ -68,45 +68,23 @@
             </div>
         </div>
     </div>
-    <div class="testimonials-cont carousel slide"  id="carouselExampleControls" data-bs-ride="carousel">
-        <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <div class="testimonials-cont owl-carousel owl-theme">
+        <div class="testimonial">
+            <div class="test-txt">
+                <p class="name">Abeng Emy</p>
+                <p class="test">"Working in hackify has always been seen fun to me, the working environment, team collaboration, task execution has been designed in a way members work with excitement."</p>
+            </div>
         </div>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <div class="testimonial">
-                    <div class="test-img">
-                        <img src="./assets/images/zbom4.jpg" alt="" height="250px" width="100%" style="object-fit: cover;">
-                    </div>
-                    <div class="test-txt">
-                        <p class="name">Boma Agina-Obu</p>
-                        <p class="test">"Working in hackify has always been seen fun to me, the working environment, team collaboration, task execution has been designed in a way members work with excitement."</p>
-                    </div>
-                </div>
+        <div class="testimonial">
+            <div class="test-txt">
+                <p class="name">Prince Charles</p>
+                <p class="test">"Coming into Hackify realising I needed more because my first project was actually tested for security and lots of vulnerbilities was discovered. So I needed to learn more in other to write more secured code."</p>
             </div>
-            <div class="carousel-item">
-                <div class="testimonial">
-                    <div class="test-img">
-                        <img src="./assets/images/careers-2.png" alt="" height="250px" width="100%" style="object-fit: cover;">
-                    </div>
-                    <div class="test-txt">
-                        <p class="name">Emmanuel Dan-Jumbo</p>
-                        <p class="test">"Coming into Hackify realising I needed more because my first project was actually tested for security and lots of vulnerbilities was discovered. So I needed to learn more in other to write more secured code."</p>
-                    </div>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <div class="testimonial">
-                    <div class="test-img">
-                        <img src="./assets/images/careers-2.png" alt="" height="250px" width="100%" style="object-fit: cover;">
-                    </div>
-                    <div class="test-txt">
-                        <p class="name">Bryan Ibeh</p>
-                        <p class="test">"At Hackify working becomes easier, despitesthe challenging task, its always fun being around. We play to work, work to grow and grow to earn."</p>
-                    </div>
-                </div>
+        </div>
+        <div class="testimonial">
+            <div class="test-txt">
+                <p class="name">Rollins .U</p>
+                <p class="test">"At Hackify working becomes easier, despitesthe challenging task, its always fun being around. We play to work, work to grow and grow to earn."</p>
             </div>
         </div>
     </div>
@@ -114,19 +92,19 @@
         <h2>GALLERY</h2>
         <div class="gallery-cont">
             <div class="item1">
-                <img src="./assets/images/careers-2.png" alt="" width="100%" height="230px" style="object-fit: cover;">
+                <img src="./assets/images/WhatsApp Image 2021-07-26 at 4.00.47 PM.jpeg" alt="" width="100%" height="230px" style="object-fit: cover;">
             </div>
             <div>
-                <img src="./assets/images/careers-2.png" alt="" width="100%" height="230px" style="object-fit: cover;">
+                <img src="./assets/images/DSC_1679.jpg" alt="" width="100%" height="230px" style="object-fit: cover;">
             </div>
             <div>
-                <img src="./assets/images/careers-2.png" alt="" width="100%" height="230px" style="object-fit: cover;">
+                <img src="./assets/images/DSC_1682.jpg" alt="" width="100%" height="230px" style="object-fit: cover;">
             </div>
             <div>
-                <img src="./assets/images/careers-2.png" alt="" width="100%" height="230px" style="object-fit: cover;">
+                <img src="./assets/images/DSC_1689.jpg" alt="" width="100%" height="230px" style="object-fit: cover;">
             </div>
             <div class="item2">
-                <img src="./assets/images/careers-2.png" alt="" width="100%" height="230px" style="object-fit: cover;">
+                <img src="./assets/images/WhatsApp Image 2021-07-26 at 4.00.48 PM (1).jpeg" alt="" width="100%" height="230px" style="object-fit: cover;">
             </div>
         </div>
     </div>
@@ -135,7 +113,7 @@
             <h2>JOIN HACKIFY</h2>
             <form class="org-form needs-validation" novalidate>
                 <div class="form-type">
-                    <p>Please before filling this form review our terms & conditions <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">HERE</a></p>
+                    <p>Please before filling this form review our terms & conditions <a href="./assets/documentations/Terms and Conditions for Hackify.pdf" target="__blank">HERE</a></p>
                 </div>
                 <div class="two-in">
                     <input id="validationCustom01"  required class="form-control half-in" type="text" placeholder="Name">

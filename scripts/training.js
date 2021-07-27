@@ -41,19 +41,9 @@
                 $btn1.prop('disabled', true).text('Sent!').css({
                   'background':'green'
                 })
-                if(organisation.part == '5'){
-                  $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/org-train5"><button class='pay'>PAY NOW</button></a>`)
-                }else if(organisation.part == '10'){
-                  $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/org-train10"><button class='pay'>PAY NOW</button></a>`)
-                }else if (organisation.part == '15') {
-                  $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/org-train15"><button class='pay'>PAY NOW</button></a>`)
-                }else if(organisation.part == '20 - above'){
-                  $('.reg-cover1 div').append(`<a href="https://paystack.com/pay/org-train20"><button class='pay'>PAY NOW</button></a>`)
-                }else{
-                  alert('hello')
-                }
                 $('.reg-cover1').fadeIn('slow').css("display" , "flex");
                 $('.reg-cover2').fadeOut('fast').css("display" , "none");
+                $('.reg-cover22').fadeOut('fast').css("display" , "none");
               }else{
                 console.log(me.res);
                 $btn1.prop('disabled', false).text('Try again').css({
@@ -102,15 +92,14 @@
                   $('.reg-cover2 div').append(`<a href="https://paystack.com/pay/dev-train2"><button class='pay'>PAY NOW</button></a>`)
                 }else if (developer.pack == 'Advance') {
                   $('.reg-cover2 div').append(`<a href="https://paystack.com/pay/dev-train3"><button class='pay'>PAY NOW</button></a>`)
-                }else{
-                  alert('hello')
                 }
                 console.log(me.res);
                 $btn2.prop('disabled', true).text('Sent!').css({
                   'background':'green'
                 })
                 $('.reg-cover1').fadeOut('fast').css("display" , "none");
-                $('.reg-cover2').fadeIn('slow').css("display" , "flex");
+                $('.reg-cover2').fadeIn('fast').css("display" , "none");
+                $('.reg-cover22').fadeIn('slow').css("display" , "flex");
               }else{
                 console.log(me.res);
                 $btn2.prop('disabled', false).text('Try again').css({
@@ -142,6 +131,10 @@ $(document).ready(()=>{
   $('.menu-icon').click(function () {
     $('.menu-bar-cont').slideToggle('show');
   });
+
+  $('.close').click(function(){
+    $('.reg-cover22').fadeOut('slow')
+  })
 
   $('.org-button').click(function () {
 
@@ -276,16 +269,10 @@ $(document).ready(()=>{
         // FORM END
     })
 
-    $('.link-pdf').click(function () {
-      let url = 'assets/documentations/hackify-lunch.pdf';
-      let res = encodeURI(url);
-      window.open(res)
-    })
-
     // count down
 
-    CountDownTimer('07/22/2021 10:1 AM');
-    CountDownTimer('12/11/2021 10:1 AM');
+    CountDownTimer('07/22/2021 10:1 PM');
+    CountDownTimer('10/16/2021 10:1 PM');
 
     function CountDownTimer(dt) {
         var end = new Date(dt);
@@ -310,6 +297,10 @@ $(document).ready(()=>{
           
 
            
+
+            if (days < 11) {
+              $('.warning').css("color","#d60000")
+            }
 
             $('.warning').text(`${days}days remaining till training starts`)
 

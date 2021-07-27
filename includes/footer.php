@@ -7,8 +7,8 @@
         </div>
         <div class="footer-content2">
             <p class="foot-title">Explore</p>
-            <a href="./about.php#who">Who we are</a><br>
-            <a href="./about.php#contact-sec">Contact us</a><br>
+            <a href="./about#who">Who we are</a><br>
+            <a href="./about#contact-sec">Contact us</a><br>
         </div>
         <div class="footer-content3">
             <p class="foot-title">Visit</p>
@@ -16,12 +16,11 @@
         </div>
         <div class="footer-content4">
             <p class="foot-title">legals</p>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop1">Terms and Condition</a><br>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">Privacy Policy</a><br>
+            <a href="./assets/documentations/Terms and Conditions for Hackify.pdf" target="__blank">Terms and Condition</a><br>
+            <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">Privacy Policy</a><br> -->
             <div style=" padding-top: 7px;" class="socials-cont">
-                <a href="#"><img src="./assets/images/facebook.png" alt="" style="padding-right: 5px;"></a>
-                <a href="#"><img src="./assets/images/instagram.png" alt="" style="padding-right: 5px;"></a>
-                <a href="#"><img src="./assets/images/twitter.png" alt=""></a>
+                <a href="https://web.facebook.com/Hackifyio-102112422166581"><img src="./assets/images/facebook.png" alt="" style="padding-right: 5px;"></a>
+                <a href="https://www.instagram.com/Hackify.IO/"><img src="./assets/images/instagram.png" alt=""></a>
             </div>
         </div>
     </div>

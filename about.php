@@ -144,7 +144,7 @@
                         <h3 style="margin-left: 10px; font-family: 'noto';">Call Us</h3>
                     </div>
                     <p>You can talk to us now or anytime<p>
-                    <p>+2347065952347</p>
+                    <p>+2349030643105</p>
                 </div>
                 <div class="contact-det">
                     <div>
