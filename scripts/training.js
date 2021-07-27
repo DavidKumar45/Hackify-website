@@ -282,7 +282,6 @@ $(document).ready(()=>{
       window.open(res)
     })
 
-
     // count down
 
     CountDownTimer('07/22/2021 10:1 AM');
