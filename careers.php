@@ -113,7 +113,7 @@
             <h2>JOIN HACKIFY</h2>
             <form class="org-form needs-validation" novalidate>
                 <div class="form-type">
-                    <p>Please before filling this form review our terms & conditions <a href="./assets/documentations/Terms and Conditions for Hackify.pdf" target="__blank">HERE</a></p>
+                    <p>Please before filling this form review our terms & conditions <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">HERE</a></p>
                 </div>
                 <div class="two-in">
                     <input id="validationCustom01"  required class="form-control half-in" type="text" placeholder="Name">

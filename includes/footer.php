@@ -17,31 +17,12 @@
         <div class="footer-content4">
             <p class="foot-title">legals</p>
             <a href="./assets/documentations/Terms and Conditions for Hackify.pdf" target="__blank">Terms and Condition</a><br>
-            <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">Privacy Policy</a><br> -->
             <div style=" padding-top: 7px;" class="socials-cont">
                 <a target="__blank" href="https://web.facebook.com/Hackifyio-102112422166581"><img src="./assets/images/facebook.png" alt="" style="padding-right: 5px;"></a>
                 <a target="__blank" href="https://www.instagram.com/Hackify.IO/"><img src="./assets/images/instagram.png" alt=""></a>
             </div>
         </div>
     </div>
-</div>
-
-<!-- Modal -->
-<div class="modal fade" id="staticBackdrop1" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body" style="background-color: #fff !important; padding: 20px !important;">
-        <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed placeat non sint libero sunt voluptate consequatur id saepe dolor ipsum maxime aut cum ipsam neque eligendi, delectus tempore vel? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit rem voluptatem perferendis vero culpa atque, exercitationem sapiente repellendus tenetur rerum molestiae incidunt autem quidem alias debitis nostrum distinctio odio harum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia dolore eveniet quos consequatur, mollitia ullam nemo enim, id laborum, voluptatibus expedita consequuntur. Recusandae, dolorum eum! Fugit et laboriosam quia hic.</h4>
-      </div>
-      <div class="modal-footer" style="background-color: #fff !important;">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
 </div>
 
 
@@ -52,11 +33,11 @@
   <div class="modal-dialog modal-dialog-scrollable">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+        <h5 style="font-family: GOE415; font-size:20px;" class="modal-title" id="staticBackdropLabel">Terms and Conditions to join Hackify.io</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body" style="background-color: #fff !important; padding: 20px !important;">
-      <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed placeat non sint libero sunt voluptate consequatur id saepe dolor ipsum maxime aut cum ipsam neque eligendi, delectus tempore vel? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit rem voluptatem perferendis vero culpa atque, exercitationem sapiente repellendus tenetur rerum molestiae incidunt autem quidem alias debitis nostrum distinctio odio harum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia dolore eveniet quos consequatur, mollitia ullam nemo enim, id laborum, voluptatibus expedita consequuntur. Recusandae, dolorum eum! Fugit et laboriosam quia hic.</h4>
+      <p style="font-family: noto; font-size:20px;">•	Must be between the ages of 18 – 35 years.<br>•	Must have more than 1 year practical experience.<br>•	Must stick with Hackify.io core values<br>•	Must possess communication and leadership skills.<br>•	Must be a great team player.<br>•	Must not have any criminal record.<br>•	Must be ready to put customer’s satisfaction first.</p>
       </div>
       <div class="modal-footer" style="background-color: #fff !important;">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
