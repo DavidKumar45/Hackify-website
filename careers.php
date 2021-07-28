@@ -26,7 +26,7 @@
     <div class="reg-cover1">
         <div>
             <img src="./assets/images/tick.png" alt="" width="110px">
-            <h2>APPLICATION SENT SUCCESSFULLY</h2>
+            <h2>YOUR APPLICATION WAS SENT SUCCESSFULLY</h2>
             <h3>Thank you for choosing hackify.io</h3>
             <a href="./"><button class="pay">Homepage</button></a>
         </div>
@@ -46,15 +46,15 @@
             <div>
                 <img src="./assets/images/review.png" alt="" width="auto" height="100px">
                 <h2>CLIENT SATISFACTION</h2>
-                <p>At Hackify our top-most priority is to reward our clients for the trust and commitment to us.
-                    We do every possible to stick to our brand promise and drive towards a safer cyberspace for everyone.<br>
-                    We develop and nourish relationship that make a positive difference in our customers lives.
+                <p>At Hackify our top-most priority is to reward our clients for their trust and commitment to us.
+                    We do everything possible to stick to our brand promise and drive towards a safer cyberspace for everyone.<br>
+                    We develop and nourish relationship that make a positive difference in our customers' lives.
                     </p>
             </div>
             <div>
                 <img src="./assets/images/support.png" alt="" width="auto" height="100px">
                 <h2>TEAMWORK</h2>
-                <p>At Hackify we are one big family.<br>At Hackify everyone is a star. We maximize everyone’s strengths and expertise to meet the needs of our customers and to help our company win. We push each other to maximize their potentials and excel in the space. Our team members are the greatest asset that we have. At Hackify:
+                <p>At Hackify we are one big family.<br>At Hackify everyone is a star. We maximize everyone’s strengths and expertise to meet the needs of our customers' and to help our company win. We push each other to maximize their potentials and excel in the space. Our team members are the greatest asset that we have. At Hackify:
                 <ul>
                     <li>We value our team members</li>
                     <li>Encourage their growth process.</li>
@@ -85,7 +85,7 @@
         <div class="testimonial">
             <div class="test-txt">
                 <p class="name">Rollins .U</p>
-                <p class="test">"At Hackify working becomes easier, despitesthe challenging task, its always fun being around. We play to work, work to grow and grow to earn."</p>
+                <p class="test">"At Hackify working becomes easier, despite the challenging task, its always fun being around. We play to work, work to grow and grow to earn."</p>
             </div>
         </div>
     </div>

@@ -47,7 +47,7 @@
                         <div>
                             <h1>PROTECTION IS NOT FOR THE JUST.<br>GO WITH HACKIFY.</h1>
                             <p>Let's provide you with quality security in the cyber space.</p>
-                            <div><a href="./pentest.php"><button class="but">Pentesting</button></a></div>
+                            <div><a href="./pentest.php"><button class="but">PenTesting</button></a></div>
                         </div>
                     </div>
                 </div>
@@ -104,10 +104,9 @@
                             </div>
                             <div>
                                 <p>Our well-tailored cybersecurity trainings are all you need to start-off and become a high-earning cyber security expert.<br>
-                                
                                 </p>
                             </div>
-                            <div class="button-holder"><a href="./training.php#contact-sec"><button>APPLY</button></a></div>
+                            <div class="button-holder"><a href="./training.php#contact-sec"><button>Register</button></a></div>
                         </div>
                     </div>
                     <div class="train">
@@ -120,7 +119,7 @@
                                 <p>We offer organizations professional trainings that will equip your team with the knowledge and tools that guarantees a safer cyberspace that ensures business growth and profitability. 
                                 </p>
                             </div>
-                            <div class="button-holder"><a href="./training.php#contact-sec"><button>APPLY</button></a></div>
+                            <div class="button-holder"><a href="./training.php#contact-sec"><button>Register</button></a></div>
                         </div>
                     </div>
                 </div>
@@ -142,7 +141,7 @@
                             <P>Assumption is a      killer! Your business growth can be hampered by cyber-attacks. Hackify offers organizations and businesses standard penetration testing service for their products.
                             </P>
                             <div>
-                                <a href="./pentest.php#contact-sec"><button>Apply</button></a>
+                                <a href="./pentest.php#contact-sec"><button>Get in Touch</button></a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +154,7 @@
                             Work with Hackify to thoroughly test your codes, cover up loopholes and make your product most suitable for the market.
                             </P>
                             <div>
-                                <a href="./pentest.php#contact-sec"><button>Apply</button></a>
+                                <a href="./pentest.php#contact-sec"><button>Get in Touch</button></a>
                             </div>
                         </div>
                     </div>
@@ -173,7 +172,7 @@
                 <div class="partner"><img src="./assets/images/13698120-0da9-404f-b5c5-df8abd087aa1.png" alt="" height="90%" style="object-fit: contain;"></div>
                 <div class="partner"><img src="./assets/images/eko.png" alt="" height="90%" style="object-fit: contain;"></div>
                 <div class="partner" style="padding: 40px;"><img src="./assets/images/ogabike_logo.png" alt="" width="90%" style="object-fit: contain;"></div>
-                <div class="partner"><img src="./assets/images/favicon.png.png" alt="" height="90%" style="object-fit: contain;"></div>
+                <!-- <div class="partner"><img src="./assets/images/favicon.png.png" alt="" height="90%" style="object-fit: contain;"></div> -->
                 <div class="partner" style="padding: 40px;"><img src="./assets/images/logo@3x.png" alt="" height="90%" style="object-fit: contain;"></div>
             </div>
         </div>
@@ -237,7 +236,7 @@
                 items:3
             },
             1000:{
-                items:5
+                items:4
             }
         }
     })

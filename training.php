@@ -42,8 +42,8 @@
         <div>
             <p class="close">x</p>
             <img src="./assets/images/tick.png" alt="" width="110px">
-            <h2>MAIL SENT SUCCESSFULLY</h2>
-            <h3>Main registartion starts on the 8th of August 2021</h3>
+            <h2>Thanks For Reaching Out To Us</h2>
+            <h3>Our registraton starts on August 8th, 2021<br>We'll keep in touch</h3>
             <a href="./"><button class="pay">Homepage</button></a>
         </div>
     </div>
@@ -135,7 +135,6 @@
                 <select class="full form-select" id="validationCustom08" required>
                     <option selected disabled value="">Packages</option>
                     <option>Basic</option>
-                    <option>Intermediate</option>
                     <option>Advance</option>
                 </select>
                 <button type="submit" class="contact-btn2">Register</button>
