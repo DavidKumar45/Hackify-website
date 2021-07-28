@@ -27,14 +27,14 @@
                 <div class="containers-img">
                     <img src="./assets/images/development.png" alt="" height="100px">
                 </div>
-                <p>Hackify prides in her team of young, experienced and certified professionals focused on delivering our Value propositions to our clients.<br>They employ their expertise to provide first-class cyber-security trainings and secure digital assets for organizations, individuals or developers via thorough assessment, end-to-end evaluation, sharp-eyed tracking, feedback and improvement through Hackify Threat Analytics Project (HackTAP) and Hackify Threat Tracking Team (H3T or HT3).</p>
+                <p>Hackify prides in her team of young, experienced and certified professionals focused on delivering our Value propositions to our clients.<br>They employ their expertise to provide first-class cyber-security trainings and secure digital assets for organizations, individuals or developers via thorough assessment, end-to-end evaluation, sharp-eyed tracking, feedback and improvement through Hackify Threat Analytics Project (HackTAP) and Hackify Threat Tracking Team (H3T).</p>
             </div>
             <div class="containers">
                 <h2>TIMELY PENTEST DELIVERY</h2>
                 <div class="containers-img">
                     <img src="./assets/images/hacker.png" alt="" height="100px">
                 </div>
-                <p>We employ standard procedures and modern technological tools for organizations, individuals and developers within the agreed project timeline.<br>Our project management team works tirelessly from the planning stages all the way through to the final delivery to ensure that Pentest projects are designed, developed and executed with customer’s satisfaction in mind.</p>
+                <p>We employ standard procedures and modern technological tools for organizations, individuals and developers within the agreed project timeline.<br>Our project management team works tirelessly from the planning stages all the way through to the final delivery to ensure that Pentest projects are designed, developed and executed with customers' satisfaction in mind.</p>
             </div>
             <div class="containers">
                 <h2>STANDARD<br>TRAININGS</h2>
@@ -47,7 +47,7 @@
     </div>
     <div class="who">
         <h2>WHO WE ARE</h2>
-        <P>Hackify is a world class cyber security solutions company head quartered in Port Harcourt, Nigeria. We are set out to ensure a safer cyber space for businesses and everyone to thrive. With our young, certified and intelligent professionals, we serve both organizations, developers/individuals, government agencies with standard PenTest and consultancy services.<br><br>Our well-tailored ethical hacking trainings are designed to impact trainees with the knowledge and tools they need to become professionals in the cyber security industry.<br><br>Hackify.io is a brainchild of <a target="__blank" style="color: #d60000;" href="https://hthub.com.ng/">Harvoxx Tech Hub.</a>
+        <P>Hackify is a world class cyber security solutions company head-quartered in Port Harcourt, Nigeria. We are set out to ensure a safer cyber space for businesses and everyone to thrive. With our young, certified and intelligent professionals, we serve both organizations, developers/individuals, government agencies with standard PenTest and consultancy services.<br><br>Our well-tailored ethical hacking trainings are designed to impact trainees with the knowledge and tools they need to become professionals in the cyber security industry.<br><br>Hackify.io is a brainchild of <a target="__blank" style="color: #d60000;" href="https://hthub.com.ng/">Harvoxx Tech Hub.</a>
         </P>
     </div>
     <div class="solve-cont">
@@ -144,7 +144,7 @@
                         <h3 style="margin-left: 10px; font-family: 'noto';">Call Us</h3>
                     </div>
                     <p>You can talk to us now or anytime<p>
-                    <p>+2349030643105</p>
+                    <p>+2348164659672</p>
                 </div>
                 <div class="contact-det">
                     <div>

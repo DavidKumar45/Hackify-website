@@ -18,7 +18,7 @@
         if (!org.checkValidity()){
           event.preventDefault(),
           event.stopPropagation(),
-          $btn1.prop('disabled', false).text('Apply')
+          $btn1.prop('disabled', false).text('Register')
         }
         else{
           event.preventDefault()
@@ -68,7 +68,7 @@
         if (!dev.checkValidity()){
           event.preventDefault(),
           event.stopPropagation(),
-          $btn2.prop('disabled', false).text('Apply')
+          $btn2.prop('disabled', false).text('Register')
         }
         else{
           event.preventDefault()

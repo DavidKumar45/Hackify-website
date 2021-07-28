@@ -42,8 +42,8 @@
         <div>
             <p class="close">x</p>
             <img src="./assets/images/tick.png" alt="" width="110px">
-            <h2>MAIL SENT SUCCESSFULLY</h2>
-            <h3>Main registartion starts on the 8th of August 2021</h3>
+            <h2>Thanks For Reaching Out To Us</h2>
+            <h3>Our registraton starts on August 8th, 2021<br>We'll keep in touch</h3>
             <a href="./"><button class="pay">Homepage</button></a>
         </div>
     </div>
@@ -52,8 +52,8 @@
         <div class="org-space">
             <div class="org-space1">
                 <h2>TRAINING FOR ORGANISATION</h2>
-                <P>We offer organizations like yours professional trainings that will equip your team with the knowledge and tools that guarantees a safer cyberspace that ensures business growth and profitability. With our customized and value-driven trainings Hackify will satisfy your organization’s desire to be properly equipped to protect your digital assets and operate in the cyber space without falling prey to cyber-attacks.</P>
-                <a href="#contact-sec"><button class="org">Apply now</button></a>
+                <P>We offer organizations like yours professional trainings that will equip your team with the knowledge and tools that guarantees a safer cyberspace that ensures business growth and profitability.<br>With our customized and value-driven trainings Hackify will satisfy your organization’s desire to be properly equipped to protect your digital assets and operate in the cyber space without falling prey to cyber-attacks.</P>
+                <a href="#contact-sec"><button class="org">Register now</button></a>
             </div>
             <div class="org-space2">
                 <img src="./assets/images/DSC_1689.jpg" alt="" width="100%" height="100%" style="object-fit: cover; border-radius: 30px;">
@@ -70,7 +70,7 @@
                     <div>
                         <h2>TRAINING FOR INDIVIDUAL</h2>
                         <P>Our well-tailored cybersecurity trainings are all you need to start-off and become a high-earning cyber security expert. Our trainees enjoy practical-based trainings, one-on-one mentorship sessions and business development trainings to help them succeed. <a style="color: #d60000;" href="./assets/documentations/training-review.pdf" download="training-review.pdf">Download training scheme</a></P>
-                        <a href="#contact-sec"><button class="dev">Apply now</button></a>
+                        <a href="#contact-sec"><button class="dev">Register now</button></a>
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
     </div>
     <div id="contact-sec" class="contact-sec">
         <div class="contact-cont">
-            <h2>APPLY NOW</h2>
+            <h2>REGISTER NOW</h2>
             <div class="form-type">
                 <button class="org-button">Organisation</button>
                 <button class="dev-button">Individual</button>
@@ -124,7 +124,7 @@
                     <option>15</option>
                     <option>20 - above</option>
                 </select>
-                <button type="submit" class="contact-btn">Apply</button>
+                <button type="submit" class="contact-btn">Register</button>
             </form>
             <form class="dev-form needs-validation" novalidate>
                 <input id="validationCustom05"  required class="form-control full" type="text" placeholder="Name">
@@ -135,10 +135,9 @@
                 <select class="full form-select" id="validationCustom08" required>
                     <option selected disabled value="">Packages</option>
                     <option>Basic</option>
-                    <option>Intermediate</option>
                     <option>Advance</option>
                 </select>
-                <button type="submit" class="contact-btn2">Apply</button>
+                <button type="submit" class="contact-btn2">Register</button>
             </form>
         </div>
     </div>

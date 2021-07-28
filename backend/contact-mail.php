@@ -11,7 +11,7 @@ if (isset($_POST['name'])) {
     
         
         
-    $to = 'vincentovie39@gmail.com';
+    $to = 'hello@hackify.io';
     $subject = 'Why hackify page contact';
     $message = "<h2 style='font-size: 18px;'>".$name." contacted about ".$subj."</h2><br>
                 <p style='font-size: 18px;'>".$messg."</p><br>
