@@ -23,13 +23,13 @@
 ::-webkit-scrollbar{
     width: 8px;
     background-color: rgb(226, 224, 224);
-    
+    box-shadow: -3px -3px 3px grey;
 }
 
 ::-webkit-scrollbar-thumb{
     border-radius: 10px;
     background-color: #a50000;
-    box-shadow: 0px 0px 3px grey;
+    
 }
 
 .loader{
@@ -513,6 +513,7 @@
     width: 80%;
     height: 100%;
     /* background-color: aqua; */
+    padding-right: 5px;
 }
 
 .partner{
@@ -523,7 +524,7 @@
     height: 172px;
     background-color: #fff;
     border-radius: 10px;
-    border: 3px solid #d60000;
+    border: 2px solid #d60000;
 }
 
 .display{
