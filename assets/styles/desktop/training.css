@@ -5,6 +5,18 @@
     outline: none;
 }
 
+::-webkit-scrollbar{
+    width: 8px;
+    background-color: rgb(226, 224, 224);
+    
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: #a50000;
+    box-shadow: 0px 0px 3px grey;
+}
+
 @font-face {
     font-family: "GOE415";
     src: url("../../fonts/GEO415K_0.TTF");

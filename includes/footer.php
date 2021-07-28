@@ -37,7 +37,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body" style="background-color: #fff !important; padding: 20px !important;">
-      <p style="font-family: noto; font-size:20px;">•	Must be between the ages of 18 – 35 years.<br>•	Must have more than 1 year practical experience.<br>•	Must stick with Hackify.io core values<br>•	Must possess communication and leadership skills.<br>•	Must be a great team player.<br>•	Must not have any criminal record.<br>•	Must be ready to put customer’s satisfaction first.</p>
+      <p style="font-family: noto; font-size:20px;">•	Must be between the ages of 18 – 35 years.<br>•	Must have more than 1 year practical experience.<br>•	Must stick with Hackify.io core values<br>•	Must possess communication and leadership skills.<br>•	Must be a great team player.<br>•	Must not have any criminal record.<br>•	Must be ready to put customers' satisfaction first.</p>
       </div>
       <div class="modal-footer" style="background-color: #fff !important;">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
