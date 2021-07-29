@@ -168,12 +168,20 @@
             <p>Here are some of or top notch partners who came together to support this platform.</p>
         </div>
         <div class="partner-holder"> 
-            <div class="owl-carousel owl-theme">
-                <div class="partner"><img src="./assets/images/13698120-0da9-404f-b5c5-df8abd087aa1.png" alt="" height="90%" style="object-fit: contain;"></div>
-                <div class="partner"><img src="./assets/images/eko.png" alt="" height="90%" style="object-fit: contain;"></div>
-                <div class="partner" style="padding: 40px;"><img src="./assets/images/ogabike_logo.png" alt="" width="90%" style="object-fit: contain;"></div>
+            <div  class="owl-carousel owl-theme">
+                <div  class="partner">
+                    <img src="./assets/images/13698120-0da9-404f-b5c5-df8abd087aa1.png" alt="" height="90%" style="object-fit: contain;">
+                </div>
+                <div class="partner">
+                    <img src="./assets/images/eko.png" alt="" height="90%" style="object-fit: contain;">
+                </div>
+                <div class="partner" style="padding: 40px;">
+                    <img src="./assets/images/ogabike_logo.png" alt="" width="90%" style="object-fit: contain;">
+                </div>
                 <!-- <div class="partner"><img src="./assets/images/favicon.png.png" alt="" height="90%" style="object-fit: contain;"></div> -->
-                <div class="partner" style="padding: 40px;"><img src="./assets/images/logo@3x.png" alt="" height="90%" style="object-fit: contain;"></div>
+                <div class="partner" style="padding: 40px;">
+                    <img src="./assets/images/logo@3x.png" alt="" height="90%" style="object-fit: contain;">
+                </div>
             </div>
         </div>
     </div>
