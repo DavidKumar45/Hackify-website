@@ -88,10 +88,10 @@
                 <img src="./assets/images/calendar-interface-symbol-tool.png" alt="" height="70px" width="auto">
             </div>
             <h2>CALENDAR</h2>
-            <h3 style="color:#d60000;font-family:'noto';text-align:center;padding-bottom:30px;">TRAINING BATCH 23</h3>
-            <p style="color: #212121;text-align:center;font-size:20px;font-family:'noto';color: #d60000;">Registration starts: <span style="color: #212529;">8th August 2021</span></p>
-            <p style="color: #212121;text-align:center;font-size:20px;font-family:'noto';color: #d60000;">Registration ends for batch 23: <span style="color: #212529;">16th October 2021</span></p>
-            <p style="color: #212121;text-align:center;font-size:20px;font-family:'noto';color: #d60000;">Training starts: <span style="color: #212529;">18th October 2021</span></p>
+            <h3 style="color:#d60000;font-family:'Noto Sans', sans-serif;text-align:center;padding-bottom:30px;">TRAINING BATCH 23</h3>
+            <p style="color: #212121;text-align:center;font-size:20px;font-family:'Noto Sans', sans-serif;color: #d60000;">Registration starts: <span style="color: #212529;">8th August 2021</span></p>
+            <p style="color: #212121;text-align:center;font-size:20px;font-family:'Noto Sans', sans-serif;color: #d60000;">Registration ends for batch 23: <span style="color: #212529;">16th October 2021</span></p>
+            <p style="color: #212121;text-align:center;font-size:20px;font-family:'Noto Sans', sans-serif;color: #d60000;">Training starts: <span style="color: #212529;">18th October 2021</span></p>
         </div>
         <div class="individual-det-div">
             <div style="display:flex; justify-content:center;">

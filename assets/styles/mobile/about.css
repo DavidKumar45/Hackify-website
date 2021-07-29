@@ -11,8 +11,8 @@
  }
 
  @font-face {
-    font-family: 'noto';
-    src: url('../../fonts/NotoSansJP-Regular.otf');
+    font-family: 'Noto Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 }
 
 ::selection{
@@ -123,7 +123,7 @@
     color: #fff;
     padding: 10px;
     /* font-size: 20px; */
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .menu-bar-cont{
@@ -149,7 +149,7 @@
 .menu-bar-cont div a{
     color: #D60000;
     text-decoration: none;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .menu-con a:hover{
@@ -181,7 +181,7 @@
     font-size: 25px;
     color: #a5a5a5;
     padding-bottom: 20px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
     
 }
 
@@ -208,7 +208,7 @@
     font-size: 30px;
     text-align: center;
     padding-bottom: 20px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .containers-img{
@@ -223,7 +223,7 @@
 .containers p{
     font-size: 17px;
     text-align: center;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .who{
@@ -240,7 +240,7 @@
 }
 
 .who p{
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
     font-size: 17px;
 }
 
@@ -264,7 +264,7 @@
 }
 
 .solve-cont p{
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
     text-align: center;
     font-size: 17px;
     padding: 20px 0;
@@ -324,7 +324,7 @@
 
 .ways p{
     font-size: 17px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
     text-align: left;
     margin-top: -1%;
 }
@@ -385,7 +385,7 @@
 
 .contact-det p{
     font-family: 17px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .item{
@@ -502,7 +502,7 @@
 
 .text{
     color: #808080;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .footer-content2{
@@ -517,7 +517,7 @@
 .foot-title{
     text-align: left;
     color: #fff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .footer-content2 a, .footer-content4 a{

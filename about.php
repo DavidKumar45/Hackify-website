@@ -57,24 +57,24 @@
             <div class="ways">
                 <div class="numbers">
                     <div class="numbers-cont">
-                        <p style="font-family: 'noto';">1</p>
+                        <p style="font-family: 'Noto Sans', sans-serif;">1</p>
                     </div>
                 </div>
                 <div class="ways-div">
                     <img src="./assets/images/ear.png" alt="" height="70px" width="auto">
-                    <h3 style="margin-left: 10px; font-family: 'noto';">We Listen</h3>
+                    <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">We Listen</h3>
                 </div>
                 <p>Talk to us about what you want.<br>We pay so much attention to details because only with the understanding of your needs can we bring you satisfaction via our services.</p>
             </div>
             <div class="ways">
                 <div class="numbers">
                     <div class="numbers-cont">
-                        <p style="font-family: 'noto';">2</p>
+                        <p style="font-family: 'Noto Sans', sans-serif;">2</p>
                     </div>
                 </div>
                 <div class="ways-div">
                     <img src="./assets/images/planning.png" alt="" height="70px" width="auto">
-                    <h3 style="margin-left: 10px; font-family: 'noto';">We Plan</h3>
+                    <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">We Plan</h3>
                 </div>
                 <p>Meticulously draft out plans for your project.<br>
                 Contract, Initial Deposit, Scheduling of resources, Setting of Deliverables, Review and agreement of the Rules of engagement.</p>
@@ -82,24 +82,24 @@
             <div class="ways">
                 <div class="numbers">
                     <div class="numbers-cont">
-                        <p style="font-family: 'noto';">3</p>
+                        <p style="font-family: 'Noto Sans', sans-serif;">3</p>
                     </div>
                 </div>
                 <div class="ways-div">
                     <img src="./assets/images/check.png" alt="" height="70px" width="auto">
-                    <h3 style="margin-left: 10px; font-family: 'noto';">We Execute</h3>
+                    <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">We Execute</h3>
                 </div>
                 <p>Here, we strategize, setup a team and get to work. Diligently carrying the testing of all-in-scope target will occur at this stage.</p>
             </div>
             <div class="ways">
                 <div class="numbers">
                     <div class="numbers-cont">
-                        <p style="font-family: 'noto';">4</p>
+                        <p style="font-family: 'Noto Sans', sans-serif;">4</p>
                     </div>
                 </div>
                 <div class="ways-div">
                     <img src="./assets/images/search.png" alt="" height="70px" width="auto">
-                    <h3 style="margin-left: 10px; font-family: 'noto';">We Analyze and Document</h3>
+                    <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">We Analyze and Document</h3>
                 </div>
                 <p>We prepare the document including execution report and technical findings.
                 Minimal testing and manual interactions with the interactions with the in-scope targets to validate findings identified during the original execution of the test or gather more details.
@@ -108,12 +108,12 @@
             <div class="ways">
                 <div class="numbers">
                     <div class="numbers-cont">
-                        <p style="font-family: 'noto';">5</p>
+                        <p style="font-family: 'Noto Sans', sans-serif;">5</p>
                     </div>
                 </div>
                 <div class="ways-div">
                     <img src="./assets/images/shuttle.png" alt="" height="70px" width="auto">
-                    <h3 style="margin-left: 10px; font-family: 'noto';">We Deploy</h3>
+                    <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">We Deploy</h3>
                 </div>
                 <p>We present our findings.
                 You test and then we retrieve feedbacks and make appropriate adjustments.
@@ -123,12 +123,12 @@
             <div class="ways">
                 <div class="numbers">
                     <div class="numbers-cont">
-                        <p style="font-family: 'noto';">6</p>
+                        <p style="font-family: 'Noto Sans', sans-serif;">6</p>
                     </div>
                 </div>
                 <div class="ways-div">
                     <img src="./assets/images/rating.png" alt="" height="70px" width="auto">
-                    <h3 style="margin-left: 10px; font-family: 'noto';">You Are Satisfied</h3>
+                    <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">You Are Satisfied</h3>
                 </div>
                 <p>Now, you sit back with your legs crossed, breathe out and a big smile say “Thank You Hackify, I am Satisfied”</p>
             </div>
@@ -141,7 +141,7 @@
                 <div class="contact-det">
                     <div>
                         <img src="./assets/images/phone-call.png" alt="" height="35px" width="auto">
-                        <h3 style="margin-left: 10px; font-family: 'noto';">Call Us</h3>
+                        <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">Call Us</h3>
                     </div>
                     <p>You can talk to us now or anytime<p>
                     <p>+2348164659672</p>
@@ -149,7 +149,7 @@
                 <div class="contact-det">
                     <div>
                         <img src="./assets/images/whatsapp.png" alt="" height="35px" width="auto">
-                        <h3 style="margin-left: 10px; font-family: 'noto';">WhatsApp</h3>
+                        <h3 style="margin-left: 10px; font-family: 'Noto Sans', sans-serif;">WhatsApp</h3>
                     </div>
                     <p>If we can’t talk now, we are available to chat with you on WhatsApp <a style="color: #d60000;" href="https://wa.link/qziyjf" target="__blank">Here</a>.<p>
                 </div>
@@ -157,7 +157,7 @@
                     <div>
                         <img src="./assets/images/mail.png" alt="" height="45px" width="auto">
                     </div>
-                    <h3 style="font-family: 'noto'; text-align:center;">...Better still</h3>
+                    <h3 style="font-family: 'Noto Sans', sans-serif; text-align:center;">...Better still</h3>
                     <p style="text-align: center; font-size: 17px;">You can send us an email now!</p>
                 </div>
             </div>

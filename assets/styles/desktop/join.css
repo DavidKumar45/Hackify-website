@@ -11,9 +11,9 @@
  }
 
  @font-face {
-     font-family: 'noto';
-     src: url('../../fonts/NotoSansJP-Regular.otf');
- }
+    font-family: 'Noto Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+}
 
 ::selection{
     color: #fff;
@@ -161,7 +161,7 @@
 .menu-con a{
     text-decoration: none;
     color: #fff;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
     padding: 10px;
     /* font-size: 20px; */
 }
@@ -211,7 +211,7 @@
 .main div p{
     color: #fff;
     font-size: 23px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .main div button{
@@ -260,17 +260,17 @@
     font-size: 23px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
     color: #000000;
 }
 
 .containing-div div p{
     font-size: 17px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 li{
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .owl-carousel{
@@ -297,7 +297,7 @@ li{
     text-align: left;
     font-size: 19px;
     font-style: italic;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .name{
@@ -306,7 +306,7 @@ li{
     font-style: italic;   
     /* padding-top: 50px; */
     font-weight: bold;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .gallery{
@@ -543,7 +543,7 @@ li{
 
 .text{
     color: #808080;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .footer-content2{
@@ -558,7 +558,7 @@ li{
 .foot-title{
     text-align: left;
     color: #fff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .footer-content2 a, .footer-content4 a{

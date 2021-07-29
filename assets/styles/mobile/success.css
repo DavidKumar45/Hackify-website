@@ -6,8 +6,8 @@
 }
 
 @font-face {
-    font-family: 'noto';
-    src: url('../../fonts/NotoSansJP-Regular.otf');
+    font-family: 'Noto Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swa')
 }
 
 ::selection{
@@ -84,14 +84,14 @@
 
 .reg-cover1 div h2{
     padding-bottom: 10px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .reg-cover1 div h3{
     /* padding-bottom: 2px; */
     font-weight: lighter;
     font-size: 25px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .reg-cover1 div h3.home{
@@ -107,5 +107,5 @@
     background-color: #D60000;
     color: #fff;
     border-radius: 100px;
-    font-family: 'noto';
+    font-family: 'Noto Sans', sans-serif;
 }
